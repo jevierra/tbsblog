@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NHIS Coding Club Blog</title>
+    <description>A blog about my class projects and daily rants</description>
+    <link>http://theorycraftist.com/</link>
+    <atom:link href="http://theorycraftist.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Nov 2015 16:55:44 -0800</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2015 16:55:44 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Girls who C0de</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://google&quot;&gt;Girls who code&lt;/a&gt; Today I watched a documentary called. Girls who code. I really enjoyed the doc.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 -0700</pubDate>
+        <link>http://theorycraftist.com/undertale</link>
+        <guid isPermaLink="true">http://theorycraftist.com/undertale</guid>
+        
+        
+        <category>Daily Rant</category>
+        
+      </item>
+    
+      <item>
+        <title>My project code folder</title>
+        <description>&lt;p&gt;Today I wrote some code. I created a application that tells me how hot it is!
+&lt;a href=&quot;http://googe.com.com/&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://theorycraftist.com/project1</link>
+        <guid isPermaLink="true">http://theorycraftist.com/project1</guid>
+        
+        
+        <category>Daily Rant</category>
+        
+      </item>
+    
+      <item>
+        <title>NHIS HELL</title>
+        <description>&lt;p&gt;Today we worked on our board gaame: NHIS HELL. The game is centered around my school. Nanakuli High School. In players are students who are decending the schools levels one at time. Trying to find there way out of this Hell of a school.&lt;/p&gt;
+
+&lt;p&gt;The game is Dig Dug meets Dantes Inferno.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://theorycraftist.com/nhish-hell</link>
+        <guid isPermaLink="true">http://theorycraftist.com/nhish-hell</guid>
+        
+        
+        <category>Daily Rant</category>
+        
+      </item>
+    
+  </channel>
+</rss>

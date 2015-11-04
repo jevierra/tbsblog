@@ -1,0 +1,33 @@
+# Site settings
+title: NHIS Coding Club Blog
+description: A blog about my class projects and daily rants
+url: "http://theorycraftist.com" # the base hostname & protocol for your site
+gems: [jekyll-paginate]
+paginate: 3
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Mr V
+      layout: "post"
+      category: Daily Rant
+      comments: false
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+
+
+
